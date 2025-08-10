@@ -34515,11 +34515,11 @@ break
 case 4:q.c.ad(t.Pu).f.O6(A.aiP(null,null,null,null,null,B.a9,null,A.dJ("No Link Found "+a.k(0),null,null,null,null),null,B.zX,null,null,null,null,null,null,null,null,null))
 case 3:return A.Q(null,r)}})
 return A.R($async$hm,r)},
-R(a5){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=this,c=null,b="Arunava Bhaumik",a="About Me",a0="Skills",a1="Projects",a2="Contact",a3="Flutter, Dart",a4=d.c
-a4.toString
+R(a4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d=this,c=null,b="About Me",a="Skills",a0="Projects",a1="Contact",a2="Flutter, Dart",a3=d.c
+a3.toString
 s=t.w
-if(A.bH(a4,c,s).w.a.a<600){a4=A.aiN(A.c([new A.Cr(new A.cf(B.pC,c,c,c,c,c,B.af),A.dJ(b,c,c,A.cT(c,c,B.h,c,c,c,c,c,c,c,c,24,c,c,c,c,c,!0,c,c,c,c,c,c,c,c),c),c),d.qh(a,new A.a7x(d)),d.qh(a0,new A.a7y(d)),d.qh(a1,new A.a7z(d)),d.qh(a2,new A.a7A(d))],t.F),!0,!0,!0)
-a4=new A.Cp(new A.DC(a4,B.aF,B.aO,!1,c,c,B.wf,!1,c,5,B.an,c,c,B.a9,B.aa,c),c)}else a4=c
+if(A.bH(a3,c,s).w.a.a<600){a3=A.aiN(A.c([new A.Cr(new A.cf(B.pC,c,c,c,c,c,B.af),A.dJ("Arunava Bhaumik\n (Drawer section under developement)",c,c,A.cT(c,c,B.h,c,c,c,c,c,c,c,c,24,c,c,c,c,c,!0,c,c,c,c,c,c,c,c),c),c),d.qh(b,new A.a7x(d)),d.qh(a,new A.a7y(d)),d.qh(a0,new A.a7z(d)),d.qh(a1,new A.a7A(d))],t.F),!0,!0,!0)
+a3=new A.Cp(new A.DC(a3,B.aF,B.aO,!1,c,c,B.wf,!1,c,5,B.an,c,c,B.a9,B.aa,c),c)}else a3=c
 r=A.eV(c,c,B.w,c,c,B.ww,c,c,c,c,c,c,c)
 q=A.eV(c,c,B.w,A.ao(153,B.k.u()>>>16&255,B.k.u()>>>8&255,B.k.u()&255),c,c,c,c,c,c,c,c,c)
 p=t.F
@@ -34527,15 +34527,15 @@ o=A.c([],p)
 n=d.c
 n.toString
 if(A.bH(n,c,s).w.a.a<600)o.push(new A.eT(new A.a7B(),c))
-o.push(A.dJ(b,c,c,A.cT(c,c,B.h,c,c,c,c,c,c,c,c,24,c,c,B.aQ,c,c,!0,c,c,c,c,c,c,c,c),c))
+o.push(A.dJ("Arunava Bhaumik",c,c,A.cT(c,c,B.h,c,c,c,c,c,c,c,c,24,c,c,B.aQ,c,c,!0,c,c,c,c,c,c,c,c),c))
 o=A.c([A.hh(o,B.a5,B.ax)],p)
 n=d.c
 n.toString
-if(!(A.bH(n,c,s).w.a.a<600))o.push(A.hh(A.c([d.qB(a,new A.a7C(d)),d.qB(a0,new A.a7D(d)),d.qB(a1,new A.a7E(d)),d.qB(a2,new A.a7F(d))],p),B.a5,B.ax))
+if(!(A.bH(n,c,s).w.a.a<600))o.push(A.hh(A.c([d.qB(b,new A.a7C(d)),d.qB(a,new A.a7D(d)),d.qB(a0,new A.a7E(d)),d.qB(a1,new A.a7F(d))],p),B.a5,B.ax))
 o=A.eV(c,A.hh(o,B.po,B.ax),B.w,B.I,c,c,c,c,c,new A.aV(20,16,20,16),c,c,c)
-n=d.lo(d.Ur(),d.f,a)
+n=d.lo(d.Ur(),d.f,b)
 m=A.cl(c,16,c)
-l=d.lo(A.ajh(A.c([d.lK(B.AE,"Flutter"),d.lK(B.ka,"Dart"),d.lK(B.Az,"BLoC"),d.lK(B.AC,"Firebase"),d.lK(B.AB,"BLE"),d.lK(B.AF,"REST API")],p),16,16),d.r,a0)
+l=d.lo(A.ajh(A.c([d.lK(B.AE,"Flutter"),d.lK(B.ka,"Dart"),d.lK(B.Az,"BLoC"),d.lK(B.AC,"Firebase"),d.lK(B.AB,"BLE"),d.lK(B.AF,"REST API")],p),16,16),d.r,a)
 k=A.cl(c,16,c)
 j=d.c
 j.toString
@@ -34543,7 +34543,7 @@ j=A.bH(j,c,s).w.a.a<600?1:2
 i=d.c
 i.toString
 i=A.bH(i,c,s).w.a.a<600?2.8:3.8
-j=d.lo(A.adf(i,A.c([d.lC("CBD - Instant Digital Banking","Banking app with BLoC, API integration, and custom UI.",a3,"https://play.google.com/store/apps/details?id=com.cbd.mobile"),d.lC("NEUMA","BLE-based app fetching sensor data.",a3,"https://play.google.com/store/apps/details?id=com.duroflex.neuma_java&hl=en_IN"),d.lC("New Creation Ministries","Church events & activities app.",a3,"https://play.google.com/store/search?q=new+creation+church+app&c=apps&hl=en_IN"),d.lC("PMTC","Live speedometer data via Bluetooth.",a3,"https://play.google.com/store/apps/details?id=com.facomsa.peugeotscooters.peugeot335")],p),j,16,16,new A.oO(c),!0),d.w,"Mobile App Projects")
+j=d.lo(A.adf(i,A.c([d.lC("CBD - Instant Digital Banking","Banking app with BLoC, API integration, and custom UI.",a2,"https://play.google.com/store/apps/details?id=com.cbd.mobile"),d.lC("NEUMA","BLE-based app fetching sensor data.",a2,"https://play.google.com/store/apps/details?id=com.duroflex.neuma_java&hl=en_IN"),d.lC("New Creation Ministries","Church events & activities app.",a2,"https://play.google.com/store/search?q=new+creation+church+app&c=apps&hl=en_IN"),d.lC("PMTC","Live speedometer data via Bluetooth.",a2,"https://play.google.com/store/apps/details?id=com.facomsa.peugeotscooters.peugeot335")],p),j,16,16,new A.oO(c),!0),d.w,"Mobile App Projects")
 i=A.cl(c,16,c)
 h=d.c
 h.toString
@@ -34551,7 +34551,7 @@ h=A.bH(h,c,s).w.a.a<600?1:2
 g=d.c
 g.toString
 g=A.bH(g,c,s).w.a.a<600?2.8:3.8
-h=d.lo(A.adf(g,A.c([d.lC("Hitachi FRM Portal","Banking web app with BLoC, API integration, and custom UI.",a3,"")],p),h,16,16,new A.oO(c),!0),d.x,"Web App Projects")
+h=d.lo(A.adf(g,A.c([d.lC("Hitachi FRM Portal","Banking web app with BLoC, API integration, and custom UI.",a2,"")],p),h,16,16,new A.oO(c),!0),d.x,"Web App Projects")
 g=A.cl(c,16,c)
 f=d.c
 f.toString
@@ -34559,7 +34559,7 @@ f=A.bH(f,c,s).w.a.a<600?1:2
 e=d.c
 e.toString
 s=A.bH(e,c,s).w.a.a<600?2.8:3.8
-return new A.vD(A.Gu(B.cz,A.c([r,q,A.a0s(!0,A.nW(A.c([o,A.SK(new A.Ga(B.jY,d.e,A.nW(A.c([n,m,l,k,j,i,h,g,d.lo(A.adf(s,A.c([d.lC("OMNI POS","This is a POS desktop application for Wellness Forever Client",a3,"")],p),f,16,16,new A.oO(c),!0),d.y,"Desktop App Projects"),d.lo(d.Us(),d.z,a2),A.cl(c,16,c)],p),B.aZ,B.a5),c))],p),B.b_,B.a5),B.aF,!0)],p),B.eV),a4,c)},
+return new A.vD(A.Gu(B.cz,A.c([r,q,A.a0s(!0,A.nW(A.c([o,A.SK(new A.Ga(B.jY,d.e,A.nW(A.c([n,m,l,k,j,i,h,g,d.lo(A.adf(s,A.c([d.lC("OMNI POS","This is a POS desktop application for Wellness Forever Client",a2,"")],p),f,16,16,new A.oO(c),!0),d.y,"Desktop App Projects"),d.lo(d.Us(),d.z,a1),A.cl(c,16,c)],p),B.aZ,B.a5),c))],p),B.b_,B.a5),B.aF,!0)],p),B.eV),a3,c)},
 Ur(){var s=this,r=null,q=A.ao(B.c.al(25.5),B.h.u()>>>16&255,B.h.u()>>>8&255,B.h.u()&255),p=A.fW(16),o=A.PZ(A.ao(51,B.h.u()>>>16&255,B.h.u()>>>8&255,B.h.u()&255)),n=A.c([new A.cM(0,B.by,A.ao(51,B.k.u()>>>16&255,B.k.u()>>>8&255,B.k.u()&255),new A.r(0,4),10)],t.sq),m=A.dJ("Arunava Bhaumik",r,r,A.cT(r,r,B.h,r,r,r,r,r,r,r,r,24,r,r,B.aQ,r,r,!0,r,r,r,r,r,r,r,r),r),l=A.dJ("Senior Flutter Developer | 6+ Years Experience",r,r,A.cT(r,r,B.z,r,r,r,r,r,r,r,r,14,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r),k=A.dJ("Passionate Flutter Developer specializing in banking, IoT, and e-commerce apps. Expert in Dart, BLoC, Firebase, BLE, and REST APIs with a knack for creating seamless user experiences.",r,r,A.cT(r,r,A.ao(B.c.al(229.5),B.h.u()>>>16&255,B.h.u()>>>8&255,B.h.u()&255),r,r,r,r,r,r,r,r,14,r,r,r,r,1.5,!0,r,r,r,r,r,r,r,r),B.dn),j=t.F,i=A.hh(A.c([s.wu(B.AN,"6+ Years"),s.wu(B.AG,"Bangalore, India"),s.wu(B.ka,"Flutter, Dart")],j),B.pp,B.ax),h=A.fW(30)
 h=A.apN(r,r,B.ay,r,r,r,6,r,r,r,r,r,new A.aV(20,12,20,12),A.ao(B.c.al(127.5),B.ay.u()>>>16&255,B.ay.u()>>>8&255,B.ay.u()&255),new A.cx(h,B.q),r,r,r,r,r)
 return A.eV(r,A.nW(A.c([new A.Bi(new A.rg("assets/images/profile.png"),50,r),B.vj,m,B.IT,l,B.vj,k,B.vk,i,B.vk,A.apM(A.m2(B.AD,B.h,r,r),A.dJ("Download Resume",r,r,A.cT(r,r,B.h,r,r,r,r,r,r,r,r,r,r,r,B.aQ,r,r,!0,r,r,r,r,r,r,r,r),r),new A.a7j(s),h)],j),B.b_,B.a5),B.w,r,r,new A.cf(q,r,o,p,n,r,B.af),r,r,r,B.jY,r,r,r)},
